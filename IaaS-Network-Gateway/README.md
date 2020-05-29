@@ -1,0 +1,1 @@
+![Network Layout](../images/network-gateway-iaas.png)
